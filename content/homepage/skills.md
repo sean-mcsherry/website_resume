@@ -77,8 +77,3 @@ I have developed a broad and robust technical skillset in nanofabrication, mater
 
 ![Sean McSherry](images/materials_chara-16.png) 
 
-
-this is a test
-
-![Sean McSherry](images/ACS.mp4) 
-

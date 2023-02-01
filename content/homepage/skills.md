@@ -80,5 +80,5 @@ I have developed a broad and robust technical skillset in nanofabrication, mater
 
 this is a test
 
-[Sean McSherry](images/ACS.mp4) 
+![Sean McSherry](images/ACS.mp4) 
 

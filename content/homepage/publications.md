@@ -7,7 +7,7 @@ header_menu: true
 
 S. McSherry*, M. Webb*, J. T. Heron, A. Lenert,  et al.  
 [Nanophotonic control of thermal emission under extreme temperatures in air](https://www.nature.com/articles/s41565-022-01205-1)  
-**Nature Nanotechnology**  
+**Nature Nanotechnology**
 2022  
 
 ---

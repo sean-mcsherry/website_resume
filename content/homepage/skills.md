@@ -25,11 +25,6 @@ I have developed a broad and robust technical skillset in nanofabrication, mater
 | ---| ---|
 |{{<figure src="images/me_in_clearroom.png" width="600px">}}|  {{<figure src="images/ACS.gif" width="252.935px">}}|
 
-
-|     | |
-| ---| ---|
-|{{<figure src="images/me_in_clearroom.png" height="450px" width="600px">}}|  {{<figure src="images/ACS.gif" height="450px" width="252.935px">}}|
-
 ![Sean McSherry](images/clean_room_fab.png) 
 
  ---
@@ -75,9 +70,10 @@ I have developed a broad and robust technical skillset in nanofabrication, mater
 
 ![Sean McSherry](images/materials_chara-17.png) 
 
-|     | |
+
+  |     | |
 | ---| ---|
-|{{<figure src="images/SiC_emitter.png" height="415px" width="175.52px">}}|  {{<figure src="images/optimization.gif" height="415px" width="671.25px">}}|
+|{{<figure src="images/SiC_emitter.png" width="175.52px">}}|  {{<figure src="images/optimization.gif" width="671.25px">}}|
 --- 
 
 ![Sean McSherry](images/materials_chara-16.png) 

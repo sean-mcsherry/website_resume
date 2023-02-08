@@ -23,6 +23,11 @@ I have developed a broad and robust technical skillset in nanofabrication, mater
 
 |     | |
 | ---| ---|
+|{{<figure src="images/me_in_clearroom.png" width="600px">}}|  {{<figure src="images/ACS.gif" width="252.935px">}}|
+
+
+|     | |
+| ---| ---|
 |{{<figure src="images/me_in_clearroom.png" height="450px" width="600px">}}|  {{<figure src="images/ACS.gif" height="450px" width="252.935px">}}|
 
 ![Sean McSherry](images/clean_room_fab.png) 

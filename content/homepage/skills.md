@@ -4,7 +4,7 @@ weight: 3
 header_menu: true
 ---
 
-I have developed a broad and robust technical skillset in nanofabrication, materials characterizaion, instrumentation, and computational modeling. As one of the first graduate students in my research group, I was in charge of getting the lab off the ground. During this time, I developed a passion for methodolgy and experimental design. Please see the following sections for more details on my skills. 
+I have developed a broad and robust technical skillset in nanofabrication, materials characterization, instrumentation, and computational modeling. As one of the first graduate students in my research group, I was in charge of getting the lab off the ground. During this time, I developed a passion for methodology and experimental design. Please see the following sections for more details on my skills.
 
 <!--ts-->
  * [Nanofabrication and Cleanroom Processes](#nanofabrication-and-cleanroom-processes)

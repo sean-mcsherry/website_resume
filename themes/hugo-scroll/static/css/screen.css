@@ -997,7 +997,7 @@ a.fn-item.active {
       10. Media Queries - Smaller than 500px
       ========================================================================== */
 
-@media only screen and (max-width: 500px) {
+@media only screen and (max-width: 900px) {
   .fixed-nav {
     display: none;
   }

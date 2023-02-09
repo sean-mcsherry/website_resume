@@ -10,4 +10,4 @@ Hi, thanks for visiting my site! I am an extremely dedicated scientist that is p
 
 {{<icon class="fa fa-envelope">}}&nbsp;[mcsherry@umich.edu](mcsherry@umich.edu)
 
-{{<icon class="fa fa-file-pdf-o">}}&nbsp;[Resume](images/McSherry_Resume.pdf)  
+{{<icon class="fa fa-file-pdf-o">}}&nbsp;[Resume](images/McSherry_Resume_Website.pdf)  
